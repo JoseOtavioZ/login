@@ -7,7 +7,7 @@ export function Home(){
     return(
         
         <SafeAreaView style={styles.container}>
-            <View>
+            <View style={styles.container}>
                 <Text style={styles.title}>
                     UNIPAR
                 </Text>

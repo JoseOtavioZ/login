@@ -7,14 +7,12 @@ export const styles = StyleSheet.create({
     },
     button:{
         backgroundColor: '#01633D',
-        width:175,
-        height:48,
+        paddingHorizontal: 50,
+        paddingVertical: 15,
         borderRadius:12,
         alignItems:'center',
         marginBottom:58,      
     },
-    buttonView:{
-        width:'100%',
-    }
+  
   
 });
